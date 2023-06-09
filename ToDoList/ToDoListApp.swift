@@ -15,7 +15,7 @@ struct ToDoListApp: App {
     
     var body: some Scene {
         WindowGroup {
-            
+            //
             // Alle Views sind so automatisch in einer NavigationView
             NavigationView {
                 ListView()
